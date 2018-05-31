@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="E0-001-002940742-5">
+  <title>LEON RUSSELL w/ guest</title>
+  <description> &lt;strong&gt;Tickets:&lt;/strong&gt;$20 adv / $22 day of&lt;br&gt;&lt;strong&gt;Doors:&lt;/strong&gt; 7:00 pm &lt;br&gt;&lt;strong&gt;Showtime:&lt;/strong&gt; 8:00 pm&lt;br&gt;&lt;br&gt;&lt;a href="http://www.bellyup.com/audiocal/moreinfo.php?day=12&amp;month=6&amp;year=2007&amp;permission_name=everything#"&gt;Buy Tickets&lt;/a&gt;&lt;br&gt;
+&lt;br&gt; &lt;b&gt;Description:&lt;/b&gt; &lt;br&gt; Leon Russell played on, produced, arranged, and wrote some of rock and roll's most successful and important records. George Benson's cover of &amp;quot;This Masquerade&amp;quot; written by Leon was the first song in music history to occupy the number one spot on the jazz, pop, and R&amp;amp;B charts. &amp;quot;This Masquerade also &amp;quot;Record of the Year&amp;quot; and a Grammy in 1976. He released four Gold Albums and had a hand in many other chart hits including &amp;quot;Superstar,&amp;quot; and a &amp;quot;A Song For You.&amp;quot;.
+</description>
+  <start_time>2007-06-12 19:00:00</start_time>
+  <stop_time/>
+  <all_day>0</all_day>
+  <tz_id/>
+  <tz_olson_path/>
+  <tz_country/>
+  <tz_city/>
+  <venue_name>Belly Up</venue_name>
+  <venue_id>V0-001-000327816-0</venue_id>
+  <venue_type>Bar/Night Club</venue_type>
+  <venue_display>1</venue_display>
+  <address>143 South Cedros Avenue</address>
+  <city>Solana Beach</city>
+  <region>California</region>
+  <region_abbr>CA</region_abbr>
+  <postal_code>92075</postal_code>
+  <country>United States</country>
+  <country_abbr2>US</country_abbr2>
+  <country_abbr>USA</country_abbr>
+  <latitude>32.991217</latitude>
+  <longitude>-117.270405</longitude>
+  <geocode_type>EVDB Geocoder</geocode_type>
+  <created>2007-02-16 18:20:34</created>
+  <modified>2007-03-23 23:40:42</modified>
+  <owner>evdb</owner>
+  <privacy>1</privacy>
+  <free/>
+  <price/>
+  <withdrawn>0</withdrawn>
+  <withdrawn_note/>
+  <recurrence/>
+  <parents/>
+  <children/>
+  <links>
+    <link id="5741099">
+      <url>http://www.bellyup.com/audiocal/moreinfo.php?day=12&amp;month=6&amp;year=2007&amp;permission_name=everything</url>
+      <type>Info</type>
+      <description>Event details at BellyUp.com!</description>
+      <username>evdb</username>
+      <time>2007-02-16 18:20:37.140273</time>
+    </link>
+  </links>
+  <comments/>
+  <trackbacks/>
+  <performers>
+    <performer>
+      <id>P0-001-000005422-2</id>
+      <name>Leon Russell</name>
+      <short_bio>Leon Russell played on, produced, arranged, and wrote some of rock and roll's most successful and important records</short_bio>
+      <creator>humcity</creator>
+      <linker>chuck</linker>
+    </performer>
+  </performers>
+  <images>
+    <image>
+      <id>I0-001-000313037-4</id>
+      <caption/>
+      <creator>evdb</creator>
+      <source>event</source>
+      <default>0</default>
+      <url>http://images.evdb.com/images/medium/I0-001/000/313/037-4.jpg</url>
+      <width>128</width>
+      <height>192</height>
+      <small>
+        <url>http://images.evdb.com/images/small/I0-001/000/313/037-4.jpg</url>
+        <width>48</width>
+        <height>72</height>
+      </small>
+      <large>
+        <url>http://images.evdb.com/images/large/I0-001/000/313/037-4.jpg</url>
+        <width>150</width>
+        <height>225</height>
+      </large>
+      <original>
+        <url>http://images.evdb.com/images/original/I0-001/000/313/037-4.jpg</url>
+        <width>150</width>
+        <height>225</height>
+      </original>
+      <medium>
+        <url>http://images.evdb.com/images/medium/I0-001/000/313/037-4.jpg</url>
+        <width>128</width>
+        <height>192</height>
+      </medium>
+      <block>
+        <url>http://images.evdb.com/images/block/I0-001/000/313/037-4.jpg</url>
+        <width>128</width>
+        <height>128</height>
+      </block>
+      <thumb>
+        <url>http://images.evdb.com/images/thumb/I0-001/000/313/037-4.jpg</url>
+        <width>48</width>
+        <height>48</height>
+      </thumb>
+    </image>
+    <image>
+      <id>I0-001-000313036-5</id>
+      <caption/>
+      <creator>evdb</creator>
+      <source>event</source>
+      <default>0</default>
+      <url>http://images.evdb.com/images/medium/I0-001/000/313/036-5.jpg</url>
+      <width>128</width>
+      <height>192</height>
+      <small>
+        <url>http://images.evdb.com/images/small/I0-001/000/313/036-5.jpg</url>
+        <width>48</width>
+        <height>72</height>
+      </small>
+      <large>
+        <url>http://images.evdb.com/images/large/I0-001/000/313/036-5.jpg</url>
+        <width>150</width>
+        <height>225</height>
+      </large>
+      <original>
+        <url>http://images.evdb.com/images/original/I0-001/000/313/036-5.jpg</url>
+        <width>150</width>
+        <height>225</height>
+      </original>
+      <medium>
+        <url>http://images.evdb.com/images/medium/I0-001/000/313/036-5.jpg</url>
+        <width>128</width>
+        <height>192</height>
+      </medium>
+      <block>
+        <url>http://images.evdb.com/images/block/I0-001/000/313/036-5.jpg</url>
+        <width>128</width>
+        <height>128</height>
+      </block>
+      <thumb>
+        <url>http://images.evdb.com/images/thumb/I0-001/000/313/036-5.jpg</url>
+        <width>48</width>
+        <height>48</height>
+      </thumb>
+    </image>
+    <image>
+      <id>I0-001-000161843-4</id>
+      <caption/>
+      <creator>humcity</creator>
+      <source>performer</source>
+      <default>0</default>
+      <url>http://images.evdb.com/images/medium/I0-001/000/161/843-4.jpg</url>
+      <width>128</width>
+      <height>119</height>
+      <small>
+        <url>http://images.evdb.com/images/small/I0-001/000/161/843-4.jpg</url>
+        <width>48</width>
+        <height>45</height>
+      </small>
+      <large>
+        <url>http://images.evdb.com/images/large/I0-001/000/161/843-4.jpg</url>
+        <width>315</width>
+        <height>293</height>
+      </large>
+      <original>
+        <url>http://images.evdb.com/images/original/I0-001/000/161/843-4.jpg</url>
+        <width>315</width>
+        <height>293</height>
+      </original>
+      <medium>
+        <url>http://images.evdb.com/images/medium/I0-001/000/161/843-4.jpg</url>
+        <width>128</width>
+        <height>119</height>
+      </medium>
+      <block>
+        <url>http://images.evdb.com/images/block/I0-001/000/161/843-4.jpg</url>
+        <width>128</width>
+        <height>128</height>
+      </block>
+      <thumb>
+        <url>http://images.evdb.com/images/thumb/I0-001/000/161/843-4.jpg</url>
+        <width>48</width>
+        <height>48</height>
+      </thumb>
+    </image>
+  </images>
+  <tags>
+    <tag id="bands">
+      <title>bands</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="bellyup">
+      <title>Belly Up</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="bellyupcom">
+      <title>bellyup.com</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="bellyuptavern">
+      <title>Belly Up Tavern</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="music">
+      <title>music</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="sandiego">
+      <title>San Diego</title>
+      <owner>evdb</owner>
+    </tag>
+    <tag id="leonrussell">
+      <title>Leon Russell</title>
+      <owner>evdb</owner>
+    </tag>
+  </tags>
+  <flags/>
+  <calendars/>
+  <groups/>
+  <going/>
+  <properties/>
+  <categories>
+    <category>
+      <id>music</id>
+      <name>Music</name>
+    </category>
+  </categories>
+</event>

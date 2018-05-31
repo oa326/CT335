@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event id="E0-001-003111144-2">
+  <title>SanDBar - San Diego Bar Camp</title>
+  <description>A Technology &amp; Design (un)Conference: No Spectators, Only Participants
+
+SanDBar 2007 is an ad-hoc gathering of high-tech and design enthusiasts born from the desire for people to share and learn in an open environment. Participants work together and try to create something exciting by being in close proximity to lots of smart people. Each person contributes in some way by leading discussions, demos, asking a question, or volunteering. 
+
+    * What - SanDBar is a Barcamp, which is an un-conference. It's about learning, sharing, and participation.
+    * Who - Anyone interested in technology and creativity; Register Here 
+    * When - Saturday, June 2
+    * Where - Technical Training Resources 
+    * Why - To gather with other individuals who are excited about technology.
+    * How - Check out these resources on how to be successful at barcamp
+    * Cost - Free! (But you have to first register by listing your name and then sign up to participate)
+
+&lt;a href="http://sandiego.wik.is/SanDBar"&gt;SanDBar Website&lt;/a&gt;</description>
+  <start_time>2007-06-02 09:00:00</start_time>
+  <stop_time>2007-06-03 09:00:00</stop_time>
+  <all_day>1</all_day>
+  <tz_id>160</tz_id>
+  <tz_olson_path>US/Pacific</tz_olson_path>
+  <tz_country>U.S.A.</tz_country>
+  <tz_city>San Diego</tz_city>
+  <venue_name/>
+  <venue_id/>
+  <venue_type/>
+  <venue_display>1</venue_display>
+  <address/>
+  <city/>
+  <region/>
+  <region_abbr/>
+  <postal_code/>
+  <country/>
+  <country_abbr2/>
+  <country_abbr/>
+  <latitude/>
+  <longitude/>
+  <geocode_type/>
+  <created>2007-03-03 14:43:42</created>
+  <modified>2007-06-11 11:40:53</modified>
+  <owner>AaronF</owner>
+  <privacy>1</privacy>
+  <free>1</free>
+  <price>&lt;a href="http://sandiego.wik.is/SanDBar/Participants"&gt;Register in advance&lt;/a&gt;</price>
+  <withdrawn>0</withdrawn>
+  <withdrawn_note/>
+  <recurrence/>
+  <parents/>
+  <children/>
+  <links/>
+  <comments/>
+  <trackbacks/>
+  <performers/>
+  <images/>
+  <tags>
+    <tag id="barcamp">
+      <title>barcamp</title>
+      <owner>AaronF</owner>
+    </tag>
+    <tag id="opensource">
+      <title>opensource</title>
+      <owner>AaronF</owner>
+    </tag>
+    <tag id="software">
+      <title>software</title>
+      <owner>AaronF</owner>
+    </tag>
+    <tag id="tech">
+      <title>tech</title>
+      <owner>AaronF</owner>
+    </tag>
+    <tag id="technology">
+      <title>technology</title>
+      <owner>AaronF</owner>
+    </tag>
+    <tag id="ttest">
+      <title>ttest</title>
+      <owner>tylervsd</owner>
+    </tag>
+  </tags>
+  <flags/>
+  <calendars/>
+  <groups>
+    <group id="G0-001-000001250-9">
+      <group_name>San Diego Technology Group</group_name>
+      <group_desc>Interested in technology?   In San Diego?   join the group, and share events with everyone!</group_desc>
+      <creator_id>2</creator_id>
+    </group>
+  </groups>
+  <going>
+    <user>
+      <username>AaronF</username>
+      <status>going</status>
+      <thumb_url>http://images.evdb.com/images/thumb/I0-001/000/314/361-5.jpg</thumb_url>
+    </user>
+    <user>
+      <username>dano</username>
+      <status>watching</status>
+      <thumb_url>http://images.evdb.com/images/thumb/I0-001/000/003/188-7.jpg</thumb_url>
+    </user>
+    <user>
+      <username>hober</username>
+      <status>watching</status>
+      <thumb_url>http://images.evdb.com/images/thumb/I0-001/000/196/872-8.jpg</thumb_url>
+    </user>
+  </going>
+  <properties/>
+  <categories>
+    <category>
+      <id>technology</id>
+      <name>Technology</name>
+    </category>
+  </categories>
+</event>
