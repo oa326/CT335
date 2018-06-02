@@ -1,4 +1,0 @@
-# To compile the latest TestEventful java source
-/usr/lib/jvm/java-1.6.0-openjdk/bin/javac   -classpath ~/apilibs/public_api/java/eventful-java-api-src-0.45/build/classes:.:/home/dreiter/apilibs/public_api/java/eventful-java-api-src-0.45/test/src/java/com/evdb/javaapi/test/  src/java/com/evdb/javaapi/test/TestEventful.java
-# To run an test Event search, then a venue search sorted by popularity:
-/usr/lib/jvm/java-1.6.0-openjdk/bin/java   -classpath ~/apilibs/public_api/java/eventful-java-api-src-0.45/build/classes:.:/home/dreiter/apilibs/public_api/java/eventful-java-api-src-0.45/test/src/java/com/evdb/javaapi/test/    TestEventful
